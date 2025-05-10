@@ -39,8 +39,7 @@ knapsack-ga/
 │   └── GA.py
 ├── baseline/
 │   └── Baseline.py
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
