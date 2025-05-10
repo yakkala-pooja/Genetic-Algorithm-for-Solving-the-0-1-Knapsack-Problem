@@ -115,12 +115,6 @@ You can run:
 
 ## Run Instructions
 
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Run GA
 
 ```bash
